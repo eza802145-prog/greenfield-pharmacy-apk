@@ -1,0 +1,6 @@
+{
+  "name": "Greenfield Pharmacy",
+  "description": "Smart pharmacy product catalogue and WhatsApp customer enquiry app for Greenfield Pharmacy. Your Health. Our Priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
